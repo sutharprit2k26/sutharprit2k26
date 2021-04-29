@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sutharpritsk26.github.io/Myportfolio/](https://sutharprit2k26.github.io/Myportfolio/) 
+
 
 
 - 📫 How to reach me **pritsuthar.dev@gmail.com**
